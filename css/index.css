@@ -1,0 +1,85 @@
+body{
+
+	background-image: url('../images/todo-image.jpg');
+	background-repeat: no-repeat;
+	width:1200px;
+	height:900px;
+}
+
+.main{
+	background-color:#DFF6B2;
+	height:450px;
+	width:700px;
+	margin-left:auto;
+	margin-right: auto;
+	margin-top:250px;
+	border: solid #C1EE69 10px;
+	border-radius: 30px;
+
+}.writing h1{
+	text-align: center;
+
+
+}
+
+.writing ul {
+	margin:0px;
+	padding:0px;
+
+}
+
+.writing ul li{
+	position: relative;
+	padding:0px;
+	list-style: none;
+	margin-left: 30px;
+	line-height: 22px;
+
+}
+.writing ul li a{
+
+	text-decoration: none;
+
+	
+
+}
+
+#textarea{
+	margin-left: 30px;
+	margin-top:25px;
+
+}
+
+.checkout{
+	
+	height: 100px;
+    width: 500px;
+    margin-left: 30px;
+    margin-top: 130px;
+}	
+
+button{
+	margin-left: 200px;
+	margin-top: 20px;
+	border:10px;
+	border-radius:10px; 
+	background-color: white;
+
+
+}
+
+
+
+button h4 a{
+	text-decoration: none;
+	color:red;
+
+}
+
+
+
+
+
+
+
+
