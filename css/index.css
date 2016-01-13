@@ -7,17 +7,25 @@ body{
 }
 
 .main{
-	background-color:#DFF6B2;
+	
 	height:450px;
 	width:700px;
 	margin-left:auto;
 	margin-right: auto;
 	margin-top:250px;
-	border: solid #C1EE69 10px;
-	border-radius: 30px;
+	
+}
 
-}.writing h1{
+.writing{
+background-color: #DFF6B2;
+border:solid #C1EE69 1px;
+border-radius: 30px;
+
+}
+
+.writing h1{
 	text-align: center;
+
 
 
 }
@@ -47,11 +55,10 @@ body{
 #textarea{
 	margin-left: 30px;
 	margin-top:25px;
-
+	height:20px;
 }
 
 .checkout{
-	
 	height: 100px;
     width: 500px;
     margin-left: 30px;
@@ -77,9 +84,36 @@ button h4 a{
 }
 
 
+.likha li{
+
+	
+	width:400px;
+	padding:0px;
+	margin-top: 2px;
+	
+	
+
+	
+}
+
+.likha li a{
+	font-size: 20px;
+
+}
+	
+	
 
 
+}
 
+.likha button{
+	background-color: #D8D7D4;
+	
+	
+}
 
+.del{
+	color:red;
+}
 
 
